@@ -51,11 +51,11 @@ The tensor is passed through the transformer encoder for feature extraction.
 
 ## This project demonstrates:
 
-Transformer-based image processing
-Vision Transformer inference
-Geospatial AI pipeline concepts
-Local deployment of foundation-model-inspired architectures
-Deep learning workflow implementation
+- Transformer-based image processing
+- Vision Transformer inference
+- Geospatial AI pipeline concepts
+- Local deployment of foundation-model-inspired architectures
+- Deep learning workflow implementation
 
 # Limitations
 
