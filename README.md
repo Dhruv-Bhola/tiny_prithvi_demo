@@ -2,7 +2,7 @@
 
 Prithvi is a geospatial foundation model developed for Earth Observation tasks such as:
 
--Flood Mapping
+- Flood Mapping
 -Crop Classification
 -Burn Scar Detection
 -Land Cover Analysis
